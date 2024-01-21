@@ -1,0 +1,4 @@
+mix  
+beagle
+boxer
+pitbull
